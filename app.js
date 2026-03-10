@@ -1,5 +1,5 @@
 // Fichier Javascript pour le back-end
-
+//test de com à supp
 const path = require("path"); //Importation du module path
 const {engine} = require("express-handlebars")
 const express = require("express"); //Importation du module express
